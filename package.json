@@ -1,0 +1,24 @@
+{
+  "name": "m-badge",
+  "version": "1.0.0",
+  "description": "badge in mobile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/59fe/m-badge.git"
+  },
+  "keywords": [
+    "badge",
+    "mobile",
+    "react"
+  ],
+  "author": "半边",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/59fe/m-badge/issues"
+  },
+  "homepage": "https://github.com/59fe/m-badge"
+}
