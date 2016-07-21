@@ -22,6 +22,8 @@
   },
   "homepage": "https://github.com/59fe/m-badge",
   "dependencies": {
-    "m-base": "^1.0.0"
+    "react": "~15.2.0",
+    "m-base": "^1.0.0",
+    "classnames": "~2.2.3"
   }
 }
