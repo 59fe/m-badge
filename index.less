@@ -1,0 +1,15 @@
+.badge {
+  display: inline-block;
+  .padding(@S1, (@S2 - 1));
+  .font-size(@font-size-caption);
+  line-height: 1;
+  text-align: center;
+  color: @N1_1;
+  background-color: @F1_1;
+  .border-radius(100);
+  &:empty {
+    .padding(@S1);
+    .height(@S2);
+    .width(@S2);
+  }
+}
