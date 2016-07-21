@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/59fe/m-badge/issues"
   },
-  "homepage": "https://github.com/59fe/m-badge"
+  "homepage": "https://github.com/59fe/m-badge",
+  "dependencies": {
+    "m-base": "^1.0.0"
+  }
 }
